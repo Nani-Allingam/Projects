@@ -8,28 +8,6 @@ This repository contains all the projects I have built while learning and practi
 
 A Contact Management System that allows users to Create, Read, Update, and Delete contacts easily.
 
-🔹 Features
-
-Add new contact
-
-View saved contacts
-
-Update existing contacts
-
-Delete contacts
-
-Simple and user-friendly interface
-
-Data handled using file / database (mention if you use any later)
-
-🔹 Technologies Used
-
-Python
-
-File Handling / Database
-
-Basic user input/output
-
 🔹 Purpose
 
 Built to practice:
@@ -45,8 +23,6 @@ Logical thinking
 🚀 Upcoming Projects (Will be added)
 
 Hospital Management System
-
-Website Blocker & Unblocker
 
 Personal Finance Manager
 
