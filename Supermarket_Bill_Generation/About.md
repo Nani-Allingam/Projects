@@ -69,6 +69,7 @@ Final bill amount
 Bill is generated with store name, date, and details.
 
 📄 Sample Output Format
+
 ============================== Nani's Super Market ==============================
                                    Tirupati
 Name: John                            Date: 2025-01-01 12:30:45
