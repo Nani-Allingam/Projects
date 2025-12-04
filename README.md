@@ -8,6 +8,7 @@ This repository contains all the projects I have built while learning and practi
 
 A Contact Management System that allows users to Create, Read, Update, and Delete contacts easily.
 
+<<<<<<< HEAD
 🔹 Features
 
 Add new contact
@@ -30,6 +31,8 @@ File Handling / Database
 
 Basic user input/output
 
+=======
+>>>>>>> 2d79a7f7ffbd8bf1843bb00c2602b9e80e9879b6
 🔹 Purpose
 
 Built to practice:
@@ -46,8 +49,11 @@ Logical thinking
 
 Hospital Management System
 
+<<<<<<< HEAD
 Website Blocker & Unblocker
 
+=======
+>>>>>>> 2d79a7f7ffbd8bf1843bb00c2602b9e80e9879b6
 Personal Finance Manager
 
 Full Stack Applications
@@ -82,4 +88,8 @@ python main.py
 ⭐ Contributions & Support
 
 This repository is open for learning and improvements.
+<<<<<<< HEAD
 Feel free to explore, suggest changes, and give a ⭐ if you like my work!
+=======
+Feel free to explore, suggest changes, and give a ⭐ if you like my work!
+>>>>>>> 2d79a7f7ffbd8bf1843bb00c2602b9e80e9879b6

@@ -1,6 +1,12 @@
 #Contact book application using python
 contacts = []
+<<<<<<< HEAD
 #Creating Contact:
+=======
+
+
+
+>>>>>>> 2d79a7f7ffbd8bf1843bb00c2602b9e80e9879b6
 
 def create_contact():                
     name = input("Enter Name: ")
@@ -10,7 +16,10 @@ def create_contact():
     contacts.append(contact)
     print("Contact added successfully!")
 
+<<<<<<< HEAD
 #View Contacts
+=======
+>>>>>>> 2d79a7f7ffbd8bf1843bb00c2602b9e80e9879b6
 
 def view_contacts():
     if not contacts:
@@ -19,8 +28,11 @@ def view_contacts():
         for i, contact in enumerate(contacts):
             print(f"{i+1}. {contact['name']} - {contact['phone']} - {contact['email']}")
 
+<<<<<<< HEAD
 #Update contact
 
+=======
+>>>>>>> 2d79a7f7ffbd8bf1843bb00c2602b9e80e9879b6
 def update_contact():
     name = input("Enter the name of the contact to update: ")
     for contact in contacts:
@@ -31,8 +43,11 @@ def update_contact():
             return
     print("Contact not found.")
 
+<<<<<<< HEAD
 #Delete Contact
 
+=======
+>>>>>>> 2d79a7f7ffbd8bf1843bb00c2602b9e80e9879b6
 def delete_contact():
     name = input("Enter the name of the contact to delete: ")
     for contact in contacts:
@@ -42,7 +57,11 @@ def delete_contact():
             return
     print("Contact not found.")
 
+<<<<<<< HEAD
 #Iteration
+=======
+#Iteration Process
+>>>>>>> 2d79a7f7ffbd8bf1843bb00c2602b9e80e9879b6
 
 while True:
     print("\n--- Contact Book ---")
